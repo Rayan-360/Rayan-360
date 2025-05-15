@@ -1,43 +1,22 @@
-# Hi there! 👋 I'm Rayan
+# 💫 About Me:
+# Hi there! 👋 I'm Rayan<br><br>Welcome to my GitHub profile! I'm a **2nd-year engineering student** passionate about **frontend development**, **full-stack projects**, and **problem-solving**. Here's a bit about me:<br><br>- **Portfolio**: [My Portfolio](#) *(https://rayan-portfolio-two.vercel.app/)*
 
-Welcome to my GitHub profile! I'm a **2nd-year engineering student** passionate about **frontend development**, **full-stack projects**, and **problem-solving**. Here's a bit about me:
 
-## 🚀 Skills & Technologies
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Shaik Rayan](https://www.linkedin.com/in/shaik-rayan-37ba87338/)) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abd17rayan@gmail.com) 
 
-### **Frontend Development**
-- **Languages**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Frameworks/Libraries**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white)
-- **CSS Tools**: ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rayan-360&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rayan-360&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-360&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### **Backend Development**
-- **Languages**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- **Frameworks/Tools**: ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rayan-360&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### **Programming Languages**
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+---
+[![](https://visitcount.itsvg.in/api?id=Rayan-360&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### **Full Stack Development**
-- ![MERN Stack](https://img.shields.io/badge/-MERN%20Stack-61DAFB?logo=react&logoColor=white)
-
-### **Problem-Solving**
-- Currently learning **Data Structures and Algorithms (DSA)** with Java
-- Concepts covered: Sliding Window, Two Pointers
-
-## 🌟 Projects
-- **Face Recognition System**: A Flask-based application with features like single-face scanning, multi-face scanning, and crowd analysis using PyTorch and YOLO.
-- **Nike Landing Page**: A visually stunning and responsive webpage built with Tailwind CSS and deployed on Vercel.
-
-## 🎯 Goals
-- Enhance backend skills
-- Strengthen problem-solving through DSA
-- Build and deploy more creative frontend projects
-- Start freelancing as a frontend developer
-
-## 📬 Let's Connect!
-- **LinkedIn**: *(www.linkedin.com/in/shaik-rayan)*
-- **Portfolio**: [My Portfolio](#) *(https://rayan-portfolio-two.vercel.app/)*
-- **Email**: [Contact me : ](#) *(skrayan0017@gmail.com)*
-
-Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaboration or just to say hi! 😊
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
