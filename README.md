@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there! 👋 I'm Rayan<br><br>Welcome to my GitHub profile! I'm a **2nd-year engineering student** passionate about **frontend development**, **full-stack projects**, and **problem-solving**. Here's a bit about me:<br><br>- 
+# Hi there! 👋 I'm Rayan<br><br>Welcome to my GitHub profile! I'm a **3rd-year engineering student** passionate about **full stack development**, **full-stack projects**, and **problem-solving**. Here's a bit about me:<br><br>- 
 
 
 ## 🌐 Socials:
